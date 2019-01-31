@@ -10,4 +10,6 @@
 * **Icons:** [Cupertino iCons](https://www.opendesktop.org/p/1102582/)
 * **Wallpaper:** The default macOS High Sierra wallpaper. I got it from [512 Pixels.](https://512pixels.net/projects/default-mac-wallpapers-in-5k/)
 
+[\(Back\)](toc.md)
+
 ### Most of the things listed can be installed through KDE Discover.
