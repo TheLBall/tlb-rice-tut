@@ -2,3 +2,4 @@
 [**\(Home\)**](./index.md)
 
 * [Required software](./swrq.md)
+* [KDE Themes, Icons, etc](themes.md)
