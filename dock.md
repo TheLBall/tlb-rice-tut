@@ -17,6 +17,6 @@ In [Getting started,](./step1.md) we set up the menu bar. Now, lets set up the d
 
 * The dock should automatically open on login.
 
-**Continue on with [Setting the Themes.](./sthemes.md)**
+**Continue with [Setting the Themes.](./sthemes.md)**
 
 [\(Table of Contents\)](./toc.md)

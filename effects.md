@@ -20,3 +20,6 @@ Credits to everyone who created the themes/applications used in this rice.
 ### If I missed anything, or you have feedback, send me a Reddit DM at u/thelball.
 
 Thank you for reading this tutorial.
+
+[(\Home\)](./index.md)
+[(\Table of Contents\)](./toc.md)

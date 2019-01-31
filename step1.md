@@ -12,6 +12,6 @@ First, get everything from [**Required software**](./sqrq.md) and [**KDE Themes,
 5. Add another Spacer to the right of the top panel but keep Flexible Spacing on.
 6. Add the Notifications, Search, Digital Clock, and System Tray to the right of the panel in that order, right to left.
 
-**Continue on with [Setting up the dock.](./dock.md)**
+**Continue with [Setting up the dock.](./dock.md)**
 
 [\(Table of Contents\)](./toc.md)

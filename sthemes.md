@@ -39,6 +39,6 @@ You may notice that, after [Setting up the dock,](./dock.md) we didn't change th
 28. Go to Icons and set it to MacBuntu-OS.
 29. Reboot to get the fonts to display properly.
 
-**Continue on to [Setting up Effects.](./effects.md)**
+**Continue with [Setting up Effects.](./effects.md)**
 
 {\(Table of Contents\)}
