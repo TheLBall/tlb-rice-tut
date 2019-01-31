@@ -1,6 +1,6 @@
 # Required software
 
-* KDE Plasma 5
-* latte-dock
+* **KDE Plasma 5**
+* **latte-dock**
 
 [\(Back\)](./toc.md)
